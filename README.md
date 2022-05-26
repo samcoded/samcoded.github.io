@@ -1,1 +1,4 @@
-# samcoded.github.io
+# samuelanozie.me
+
+
+Personal website 
