@@ -4,7 +4,7 @@ Personal site for Samuel Anozie, GTM Engineer & Software Developer. Plain HTML/C
 
 ## Structure
 
-- pages: `index.html`, `work.html`, `about.html`, `now.html`, `archive.html`, `contact.html`
+- pages: `index.html` (served at `/`), plus `work/`, `about/`, `cv/`, `now/`, `archive/`, `contact/` — each an `index.html` served at its clean folder URL (e.g. `/work`)
 - `css/style.css`: single stylesheet, CSS custom properties for the design system
 - `js/main.js`: mobile nav toggle only
 - `images/`: profile photo
